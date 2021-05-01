@@ -18,3 +18,7 @@
   name: market-basket
   description: Market Basket Analysis by Jamarius Taylor
   type: default
+- path: time-normalised
+  name: time-normalised
+  description: Cumalitive visualisation of time-normalised traffic
+  type: default
