@@ -1,5 +1,5 @@
 path: data.rds
-description: Show a GA4 Trend using Dygraphs
+description: GA4 Metric Trend
 type: default
 filenames:
   data.rds: data.rds

@@ -4,5 +4,5 @@
   type: default
 - path: ga4-trend
   name: ga4-trend
-  description: Show a GA4 Trend using Dygraphs
+  description: GA4 Metric Trend
   type: default
