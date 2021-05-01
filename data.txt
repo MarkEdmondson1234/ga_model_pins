@@ -6,3 +6,7 @@
   name: decomp_ga_advanced
   description: Performs decomposition (Advanced)
   type: default
+- path: decomp_ga
+  name: decomp_ga
+  description: Perform decomposition on your GA sessions
+  type: default

@@ -1,0 +1,5 @@
+path: data.rds
+description: Perform decomposition on your GA sessions
+type: default
+filenames:
+  data.rds: data.rds
