@@ -14,3 +14,7 @@
   name: ga-effect
   description: 'Causal Impact on channelGrouping data '
   type: default
+- path: market-basket
+  name: market-basket
+  description: Market Basket Analysis by Jamarius Taylor
+  type: default

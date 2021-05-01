@@ -1,0 +1,5 @@
+path: data.rds
+description: Market Basket Analysis by Jamarius Taylor
+type: default
+filenames:
+  data.rds: data.rds
