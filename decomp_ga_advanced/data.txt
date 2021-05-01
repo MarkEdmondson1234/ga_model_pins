@@ -1,0 +1,5 @@
+path: data.rds
+description: Performs decomposition (Advanced)
+type: default
+filenames:
+  data.rds: data.rds

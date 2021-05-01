@@ -6,3 +6,7 @@
   name: ga4-trend
   description: GA4 Metric Trend
   type: default
+- path: decomp_ga_advanced
+  name: decomp_ga_advanced
+  description: Performs decomposition (Advanced)
+  type: default
