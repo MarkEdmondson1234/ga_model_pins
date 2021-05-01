@@ -1,0 +1,5 @@
+path: data.rds
+description: Show a GA4 Trend using Dygraphs
+type: default
+filenames:
+  data.rds: data.rds
