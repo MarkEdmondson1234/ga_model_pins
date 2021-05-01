@@ -10,3 +10,7 @@
   name: decomp_ga
   description: Perform decomposition on your GA sessions
   type: default
+- path: ga-effect
+  name: ga-effect
+  description: 'Causal Impact on channelGrouping data '
+  type: default

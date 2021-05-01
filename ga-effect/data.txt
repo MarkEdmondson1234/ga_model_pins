@@ -1,0 +1,5 @@
+path: data.rds
+description: 'Causal Impact on channelGrouping data '
+type: default
+filenames:
+  data.rds: data.rds
