@@ -2,3 +2,7 @@
   name: ga-model-example-ga4-trend-gamr
   description: Show a GA4 Trend using Dygraphs
   type: default
+- path: ga4-trend
+  name: ga4-trend
+  description: Show a GA4 Trend using Dygraphs
+  type: default
